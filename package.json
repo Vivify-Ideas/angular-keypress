@@ -1,0 +1,27 @@
+{
+  "name": "vi-angular-keypress",
+  "version": "1.0.3",
+  "description": "AngularJS directive to help bind keyboard events to methods in the scope.",
+  "main": "src/keypress.js",
+  "peerDependencies": {
+    "angular": "^1.2.18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivify-Ideas/angular-keypress.git"
+  },
+  "keywords": [
+    "angularjs",
+    "keyboard events",
+    "keypress"
+  ],
+  "author": "Vivify Ideas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vivify-Ideas/angular-keypress/issues"
+  },
+  "homepage": "https://github.com/Vivify-Ideas/angular-keypress#readme"
+}
