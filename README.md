@@ -16,6 +16,12 @@ or
 bower install vi-angular-keypress
 ```
 
+or
+
+```
+yarn add vi-angular-keypress
+```
+
 ### Require the module:
 
 ```javascript
